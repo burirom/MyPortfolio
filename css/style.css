@@ -243,7 +243,7 @@ h6 {
 }
 
 #aboutwrap {
-	background: url(../img/about1.jpg) no-repeat center top;
+	background: url(../img/about.jpg) no-repeat center top;
 	margin-top: -70px;
 	padding-top: 250px;
 	text-align: center;
@@ -522,4 +522,23 @@ h6 {
 
 .credits {
 	color: #999;
+}
+
+
+
+
+
+/* Works     portfolio */
+.centered .apptitle{
+	margin-bottom: 30px;
+}
+
+
+@media (max-width: 768px) {
+	.centered .appdetails {
+		margin-top: 10px;
+	}
+}
+.centered{
+	margin-bottom: 60px;
 }
