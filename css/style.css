@@ -542,3 +542,10 @@ h6 {
 .centered{
 	margin-bottom: 60px;
 }
+
+
+@media (max-width: 768px) {
+	.mailimg{
+		max-width: 100%;
+	}
+}
